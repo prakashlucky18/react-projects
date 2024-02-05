@@ -1,0 +1,4 @@
+.contact-page header {
+    background-image: linear-gradient(rgba(178, 13, 13, 0.5), rgba(20, 11, 11, 0.5)), url(../Resources/Images/contact2.jpg);
+    height: 50vh;
+} 
